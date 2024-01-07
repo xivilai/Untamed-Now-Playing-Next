@@ -32,6 +32,7 @@ Support Windows / Linux / OSX.
 ## Supported Sites
 * [8tracks.com](http://8tracks.com)
 * [ah.fm](http://ah.fm)
+* [statify-radio.ru](https://statify-radio.ru/)
 * [beatport.com](https://www.beatport.com/listen)
 * [classicalradio.com](http://classicalradio.com/)
 * [deezer.com](http://deezer.com)
